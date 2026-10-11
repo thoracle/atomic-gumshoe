@@ -76,4 +76,4 @@ in-process).
 
 The code is released under the [MIT License](LICENSE). The title artwork (`static/img/`) and
 music (`static/audio/`) are **not** covered by it: they belong to their respective creators,
-all rights reserved.
+all rights reserved (see [NOTICE](NOTICE)).

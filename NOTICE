@@ -1,0 +1,13 @@
+Atomic Gumshoe
+Copyright (c) 2026 Thor Alexander
+
+The source code in this repository is licensed under the MIT License (see LICENSE).
+
+ASSETS EXCLUDED FROM THE MIT LICENSE
+
+The following media files are NOT covered by the MIT License. They remain the
+property of their respective creators, all rights reserved, and may not be
+reused, redistributed or modified without their permission:
+
+  static/img/    title-screen artwork
+  static/audio/  music tracks

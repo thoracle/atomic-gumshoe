@@ -19,14 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-
-ASSETS EXCLUDED FROM THIS LICENSE
-
-The MIT License above covers the source code only. The following media files
-are NOT licensed under it. They remain the property of their respective
-creators, all rights reserved, and may not be reused without their permission:
-
-  static/img/    title-screen artwork
-  static/audio/  music tracks
