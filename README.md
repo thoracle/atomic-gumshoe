@@ -71,3 +71,9 @@ player's best times on their own device.
 Behind a reverse proxy at a sub-path, pass `X-Forwarded-Prefix`; production can run it with
 `gunicorn --workers 1 --threads 4 app:app` (one worker: the leaderboard's write lock is
 in-process).
+
+## License
+
+The code is released under the [MIT License](LICENSE). The title artwork (`static/img/`) and
+music (`static/audio/`) are **not** covered by it: they belong to their respective creators,
+all rights reserved.
